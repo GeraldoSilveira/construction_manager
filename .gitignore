@@ -1,0 +1,12 @@
+# Arquivos gerados
+daily_report.xlsx
+daily_report.pdf
+ms_project_export.csv
+temp_photo.png
+
+# Pasta de fotos
+photos/
+
+# Arquivos de ambiente virtual ou temporários
+__pycache__/
+*.pyc
