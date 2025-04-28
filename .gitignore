@@ -10,3 +10,4 @@ photos/
 # Arquivos de ambiente virtual ou temporários
 __pycache__/
 *.pyc
+token.txt
